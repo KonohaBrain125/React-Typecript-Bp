@@ -1,6 +1,6 @@
 import { Params, useParams } from 'react-router-dom';
 import { Head } from '@/components/Head/Head';
-import { ContentLayout } from '@/layouts/ContentLayout';
+import { ContentLayout } from '@/layouts/MainLayout/ContentLayout';
 import { ProfileDetails, UserPosts } from '@/features/users/';
 
 type QueryParamTypes = Params & {

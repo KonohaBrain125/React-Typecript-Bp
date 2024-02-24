@@ -1,6 +1,6 @@
 import { Post, PostEditor } from '..';
 import { useNavigate } from 'react-router-dom';
-import { ContentLayout } from '@/layouts/ContentLayout';
+import { ContentLayout } from '@/layouts/MainLayout/ContentLayout';
 import { Head } from '@/components/Head/Head';
 
 export const CreatePost = () => {

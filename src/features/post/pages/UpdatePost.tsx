@@ -1,6 +1,6 @@
 import { Post, PostEditor } from '..';
 import { Params, useNavigate, useParams } from 'react-router-dom';
-import { ContentLayout } from '@/layouts/ContentLayout';
+import { ContentLayout } from '@/layouts/MainLayout/ContentLayout';
 import { ErrorPageLayout } from '@/layouts/ErrorPageLayout';
 import { Head } from '@/components/Head/Head';
 import { useGetPostQuery } from '../api/postApi';

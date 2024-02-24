@@ -1,4 +1,4 @@
-import { ContentLayout } from '@/layouts/ContentLayout';
+import { ContentLayout } from '@/layouts/MainLayout/ContentLayout';
 import { Head } from '@/components/Head/Head';
 import { PostsList } from '../components/PostsList';
 import { PageSpinner } from '@/components/Elements/Spinner/PageSpinner';
