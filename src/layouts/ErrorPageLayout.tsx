@@ -1,6 +1,6 @@
 import { Link } from 'react-router-dom';
 import { Head } from '@/components/Head/Head';
-import { ContentLayout } from '@/layouts/ContentLayout';
+import { ContentLayout } from '@/layouts/MainLayout/ContentLayout';
 import React from 'react';
 
 type ErrorPageLayoutProps = {
